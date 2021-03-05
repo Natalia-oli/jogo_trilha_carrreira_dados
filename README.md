@@ -1,5 +1,5 @@
 <p align="center">
-T R I L H A  D O  P R O F I S S I O N A L  A N A L I S T A  D E  D A D O S
+T R I L H A    D O    P R O F I S S I O N A L    A N A L I S T A    D E  D A D O S
 </p>
 
 ---
