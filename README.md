@@ -1,6 +1,6 @@
 # projeto-Jogo-VamoAI 
 ---
-      __O jogo em questão foi pensado a partir do planejamento e requisitos presentes na próprio Turma #VamoAI. Tem como público-alvo central os próprios alunos do curso. As interações oferecidas por esse pequeno projeto gamefica os requisitos necessários para conseguir ter um bom rendimento no módulo 1 e consequentemente, faz uma ponte com o módulo 2__
+      O jogo em questão foi pensado a partir do planejamento e requisitos presentes na próprio Turma #VamoAI. Tem como público-alvo central os próprios alunos do curso. As interações oferecidas por esse pequeno projeto gamefica os requisitos necessários para conseguir ter um bom rendimento no módulo 1 e consequentemente, faz uma ponte com o módulo 2.
 ---
 
 ##### **1.** imagine um corredor com várias portas :thought_balloon:
