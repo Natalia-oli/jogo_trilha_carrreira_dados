@@ -1,4 +1,7 @@
-# T R I L H A  D O  P R O F I S S I O N A L  A N A L I S T A  D E  D A D O S
+<p align="center">
+T R I L H A  D O  P R O F I S S I O N A L  A N A L I S T A  D E  D A D O S
+</p>
+
 ---
       O jogo em questão foi pensado a partir do planejamento e requisitos presentes na próprio Turma #VamoAI. Tem como público-alvo central os próprios alunos do curso. As interações oferecidas por esse pequeno projeto gamefica os requisitos necessários para conseguir ter um bom rendimento no módulo 1 e consequentemente, faz uma ponte com o módulo 2.
 ---
