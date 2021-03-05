@@ -6,7 +6,7 @@
 ##### **1.** imagine um corredor com várias portas :thought_balloon:
 ![Minha-logo](https://github.com/Natalia-oli/imagens/blob/master/corredor.jpg)
 
-##### **2.** Imagine também o Módulo 1 da Turma VamoAI, como um monstro e para derrota-lo será necessário responder as perguntas presentes em cada sala :grey_exclamation: 
+##### **2.** Imagine também o Módulo 1 da Turma VamoAI, como um monstro e para derrota-lo será necessário responder as perguntas presentes em cada sala :grey_exclamation: :sweat_drops:
 
 ##### **3.** Suas respostas são as armas para derrotar o Mostro do MMM1 (Módulo 1) :muscle:
 
