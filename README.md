@@ -10,7 +10,7 @@ Suas respostas são as armas para derrotar o Mostro do MMM1 (Módulo 1). O MM1 e
 Caso tenha os requisitos pedidos no jogo, você enfraquece o mesmo e ganha :grin:, caso não, ao ir para o andar dois (Módulo 2), você conviverá com esse Monstro e seu desempenho nesse módulo poderá ser afetado :flushed: .
                   
  <p align="center">
-  <img src="https://github.com/Natalia-oli/imagens/blob/master/Legal%20Ilustrado%20Games%20Infogr%C3%A1fico%20(1).gif"/>
+  <img src="https://github.com/Natalia-oli/projeto-Jogo-VamoAI/blob/main/gif_projeto_1.gif"/>
 </p>
 
 
